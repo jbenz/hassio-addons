@@ -2,7 +2,8 @@ name: TradeAssistant
 description: Professional cryptocurrency trading and market monitoring dashboard
 version: 1.0.0
 slug: tradeassistant
-url: https://github.com/jbenz/ha-tradeassistant
+udev: true
+url: https://github.com/jbenz/hassio-addons/tree/master/tradeassistant
 codeowners:
 - '@jbenz'
 init: false
